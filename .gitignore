@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+*.log
+uploads/**
+!uploads/**/
+!uploads/**/*.js
+.DS_Storem
+npm-debug.log*
+coverage/
+.vercel
